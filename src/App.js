@@ -15,7 +15,7 @@ function App() {
         <footer>
           This project was coded by Ziyanda Davashe and is{" "}
           <a
-            href="https://github.com/shecodesio/dictionary"
+            href="https://github.com/ziyandadavashe/react-dictionary-project"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,7 +23,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://shecodes-dictionary.netlify.app/"
+            href="https://github.com/ziyandadavashe/react-dictionary-project"
             target="_blank"
             rel="noopener noreferrer"
           >
